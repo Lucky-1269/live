@@ -2,38 +2,38 @@
   "sites": [
     {
       "key": "ft1",
-      "name": "饭太硬①",
-      "type": 1,
+      "名称": "饭太硬①",
+      "类型": 1,
       "api": "http://www.xn--sss604efuw.cc/tv",
-      "searchable": 1,
-      "quickSearch": 1,
+      "可搜索的": 1,
+      "快速搜索": 1,
       "filterable": 1
-    },
+    }
     {
       "key": "ft2",
-      "name": "饭太硬②",
-      "type": 1,
+      "名称": "饭太硬②",
+      "类型": 1,
       "api": "http://www.xn--sss604efuw.net/tv",
-      "searchable": 1,
-      "quickSearch": 1,
+      "可搜索的": 1,
+      "快速搜索": 1,
       "filterable": 1
-    },
+    }
     {
       "key": "ft3",
-      "name": "饭太硬③",
-      "type": 1,
-      "api": "http://fty.xxooo.cf/tv",
-      "searchable": 1,
-      "quickSearch": 1,
+      "名称": "饭太硬③",
+      "类型": 1,
+      "api": "http://fty.xxooo.cf/tv"
+      "可搜索的": 1,
+      "快速搜索": 1,
       "filterable": 1
-    },
+    }
     {
       "key": "ft4",
-      "name": "饭太硬④",
-      "type": 1,
+      "名称": "饭太硬④"
+      "类型": 1,
       "api": "http://www.xn--sss604efuw.art/tv",
-      "searchable": 1,
-      "quickSearch": 1,
+      "可搜索的": 1,
+      "快速搜索": 1,
       "filterable": 1
     },
     {
