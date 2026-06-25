@@ -1,0 +1,139 @@
+{
+  "sites": [
+    {
+      "key": "ft1",
+      "name": "饭太硬①",
+      "type": 1,
+      "api": "http://www.xn--sss604efuw.cc/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ft2",
+      "name": "饭太硬②",
+      "type": 1,
+      "api": "http://www.xn--sss604efuw.net/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ft3",
+      "name": "饭太硬③",
+      "type": 1,
+      "api": "http://fty.xxooo.cf/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ft4",
+      "name": "饭太硬④",
+      "type": 1,
+      "api": "http://www.xn--sss604efuw.art/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ft5",
+      "name": "饭太硬⑤",
+      "type": 1,
+      "api": "http://fty.888484.xyz/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ft6",
+      "name": "饭太硬⑥",
+      "type": 1,
+      "api": "http://fty.333232.xyz/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fm1",
+      "name": "肥猫①",
+      "type": 1,
+      "api": "http://xn--z7x900a.net",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fm2",
+      "name": "肥猫②",
+      "type": 1,
+      "api": "http://hello.xn--z7x900a.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "my",
+      "name": "摸鱼",
+      "type": 1,
+      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "nf",
+      "name": "农夫(YYDS)",
+      "type": 1,
+      "api": "http://yydsok.com/api/bendi/yydsapi/nf/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ff",
+      "name": "扶风(YYDS)",
+      "type": 1,
+      "api": "http://yydsok.com/api/bendi/yydsapi/ff/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wge",
+      "name": "王小二",
+      "type": 1,
+      "api": "https://9280.kstore.vip/newwex.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "nfy",
+      "name": "南风①",
+      "type": 1,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ysc",
+      "name": "影视仓官方",
+      "type": 1,
+      "api": "http://chunqiuss.com/api/ysc/yschz.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jl",
+      "name": "俊佬",
+      "type": 1,
+      "api": "http://home.jundie.top:81/top98.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
