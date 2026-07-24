@@ -1,12 +1,22 @@
 {
   "sites": [
     {
-      "key": "首页",
-      "name": "首页",
+      "key": "非凡",
+      "name": "非凡",
       "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "dadiapi.com",
@@ -15,7 +25,7 @@
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "ms4nii",
@@ -24,7 +34,7 @@
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "淫水机",
@@ -33,7 +43,7 @@
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "香奶儿",
@@ -42,7 +52,7 @@
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "白嫖",
@@ -51,7 +61,7 @@
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "黄AV",
@@ -60,7 +70,7 @@
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "huangsecangkuziyuan",
@@ -69,7 +79,7 @@
       "api": "https://hsckzy888.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "baihuaziyuan",
@@ -78,7 +88,7 @@
       "api": "https://bhziyuan.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "xingbaziyuan",
@@ -87,16 +97,7 @@
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "玉兔资源",
-      "name": "玉兔",
-      "type": 0,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "115ziyuan",
@@ -114,7 +115,7 @@
       "api": "https://www.gdlsp.com/api/json.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "xiaojiziyuan",
@@ -123,7 +124,7 @@
       "api": "https://api.xiaojizy.live/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "danaiziziyuan",
@@ -132,7 +133,7 @@
       "api": "https://apidanaizi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "didiziyuan",
@@ -141,7 +142,7 @@
       "api": "https://api.ddapi.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "jikunziyuan",
@@ -150,7 +151,7 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "yinshuiji",
@@ -159,7 +160,7 @@
       "api": "https://www.xrbsp.com/api/json.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "laosebiziyuan",
@@ -168,7 +169,7 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "fanhaoziyuan",
@@ -177,7 +178,7 @@
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "baipiao",
@@ -186,16 +187,7 @@
       "api": "https://www.kxgav.com/api/json.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "yutuziyuan",
-      "name": "玉兔",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "AIvin",
@@ -204,7 +196,7 @@
       "api": "http://lbapiby.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "lebo",
@@ -213,7 +205,7 @@
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "senlinziyuan",
@@ -222,7 +214,7 @@
       "api": "http://slapibf.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "souavziyuan",
@@ -243,22 +235,157 @@
       "filterable": 0
     },
     {
-      "key": "量子",
-      "name": "量子",
+      "key": "玉兔资源",
+      "name": "玉兔",
       "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "key": "yutuziyuan",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
+    },
+    {
+      "key": "fanjiaziyuan",
+      "name": "番茄",
+      "type": 1,
+      "api": "https://fqzy4.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Xxibaoziyuan",
+      "name": "细胞",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "api.bwzyz.com",
+      "name": "百万",
+      "type": 1,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "shileyuan",
+      "name": "诗乐园",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "naixiangxiangziyuan",
+      "name": "奶香香",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "senanguoziyuan",
+      "name": "色南国",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "huangguaziyuan",
+      "name": "黄瓜",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "shayuziyuan",
+      "name": "鲨鱼",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "91md18+",
+      "name": "麻豆",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "wukongzyz",
+      "name": "悟空",
+      "type": 1,
+      "api": "https://wukongzyz.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xzybb1",
+      "name": "幸资",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "siwazyw.tv",
+      "name": "丝袜",
+      "type": 1,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "jingpinziyuan",
+      "name": "精品",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "lajiaoziyuan",
+      "name": "辣椒",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "youyiziyuan",
+      "name": "优异",
+      "type": 1,
+      "api": "https://a.uezy.pw/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ]
 }
